@@ -25,7 +25,7 @@
       year: 2024
       description:
         - Supervised by Prof. Saman Halgamuge, Prof. Sherene Loi, Dr. Peter Savas, and Dr. Jason Li.
-        - Thesis title "Deep Neural Networks for Limited Data Scenarios"
+        - title: Deep Neural Networks for Limited Data Scenarios
           contents:
             - Enhanced foundational research in few-shot learning by developing parameter-efficient fine-tuning approaches, achieving an average accuracy improvement up to 7.7\% over the state-of-the-art methods across 13 datasets.
             - Pioneered novel weakly-supervised training models for giga-pixel images, achieving upto 8\% classification improvement on held-out test data.
