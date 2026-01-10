@@ -27,15 +27,15 @@
         - Supervised by Prof. Saman Halgamuge, Prof. Sherene Loi, Dr. Peter Savas, and Dr. Jason Li.
         - title: Deep Neural Networks for Limited Data Scenarios
           contents:
-            - Enhanced foundational research in few-shot learning by developing parameter-efficient fine-tuning approaches, achieving an average accuracy improvement up to 7.7\% over the state-of-the-art methods across 13 datasets.
-            - Pioneered novel weakly-supervised training models for giga-pixel images, achieving upto 8\% classification improvement on held-out test data.
-            - Developed a transformer based model for analysing kinematic time-series data, achieving up to 3\% improvement over the state-of-the-art methods.
+            - Enhanced foundational research in few-shot learning by developing parameter-efficient fine-tuning approaches, achieving an average accuracy improvement up to 7.7% over the state-of-the-art methods across 13 datasets.
+            - Pioneered novel weakly-supervised training models for giga-pixel images, achieving upto 8% classification improvement on held-out test data.
+            - Developed a transformer based model for analysing kinematic time-series data, achieving up to 3% improvement over the state-of-the-art methods.
 
-    - title: B.SC. (Hons) in Computer Science \& Engineering
+    - title: B.SC. (Hons) in Computer Science & Engineering
       institution: University of Moratuwa, Sri Lanka
       year: 2014 - 2018
       description:
-        - GPA of 4.02/4.2 (ranked in the top 3\% of the batch).
+        - GPA of 4.02/4.2 (ranked in the top 3% of the batch).
 
     # - title: Professor of Theoretical Physics
     #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
