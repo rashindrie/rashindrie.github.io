@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-:raised_hands: Thrilled to be receive the Viewer’s Choice Award at the University of Melbourne’s Visualise Your Thesis competition 2021
+:raised_hands: Thrilled to be receive the Viewer’s Choice Award at the University of Melbourne’s Visualise Your Thesis competition.
 
 <!-- </div>
   <div class="col-sm-3">
