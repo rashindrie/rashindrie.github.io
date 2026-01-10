@@ -12,7 +12,7 @@
     - title: Senior Applied Scientist
       institution: Oracle, Australia
       year: 2024 - Present
-    
+
     - title: Machine Learning Scientist
       institution: Cancer Research Divison, Peter MacCallum Cancer Centre, Australia
       year: 2023 - 2024
@@ -30,19 +30,17 @@
             - Enhanced foundational research in few-shot learning by developing parameter-efficient fine-tuning approaches, achieving an average accuracy improvement up to 7.7\% over the state-of-the-art methods across 13 datasets.
             - Pioneered novel weakly-supervised training models for giga-pixel images, achieving upto 8\% classification improvement on held-out test data.
             - Developed a transformer based model for analysing kinematic time-series data, achieving up to 3\% improvement over the state-of-the-art methods.
-    
+
     - title: B.SC. (Hons) in Computer Science \& Engineering
       institution: University of Moratuwa, Sri Lanka
       year: 2014 - 2018
       description:
         - GPA of 4.02/4.2 (ranked in the top 3\% of the batch).
 
-
     # - title: Professor of Theoretical Physics
     #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
     #   year: 1911 - 1917
-      # description:
-
+    # description:
 # - title: Open Source Projects
 #   type: time_table
 #   contents:

@@ -32,4 +32,6 @@ ul#tabs,
 }
 
 /* Optional: reduce spacing that tab nav might have introduced */
-.tab-content { margin-top: 0 !important; }
+.tab-content {
+  margin-top: 0 !important;
+}
