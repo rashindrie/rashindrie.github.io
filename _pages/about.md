@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Senior Applied Scientist</a>. Oracle, Australia.
+subtitle: Senior Applied Scientist. Oracle, Australia.
 
 profile:
   align: right
