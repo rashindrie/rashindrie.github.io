@@ -16,21 +16,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
+        },{id: "news-sparkles-a-usd-24000-fund-was-granted-for-explorecsr-work",
+          title: ':sparkles: A USD 24000 fund was granted for exploreCSR work!',
           description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+          section: "News",},{id: "news-sparkles-i-joined-oracle-australia-as-a-senior-applied-scientist",
+          title: ':sparkles: I joined Oracle Australia as a Senior Applied Scientist',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-tick-two-us-patents-are-being-filed-for-my-work-at-oracle",
+          title: ':tick: Two US Patents are being filed for my work at Oracle.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
