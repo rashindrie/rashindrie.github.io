@@ -26,7 +26,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Applied Scientist at [Oracle](https://www.oracle.com/au/) based in Melbourne, working at the intersection of machine learning, data analytics, and real‑world impact. I currently work on building production-level AI pipelines for large-scale data sources. This work has securred the filing of two patents.
+I am a Senior Applied Scientist at [Oracle](https://www.oracle.com/au/) based in Melbourne, working at the intersection of machine learning, data analytics, and real‑world impact. I currently work on building production-level AI pipelines for large-scale data sources . This work has securred the filing of two patents.
 
 Over the past decade, my career has spanned academic research and industry, with a consistent focus on building trustworthy, data‑efficient neural network systems that translate into tangible benefits for healthcare and enterprise settings.
 
