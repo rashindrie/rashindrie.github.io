@@ -6,27 +6,6 @@
     - name: Email
       value: rashindrieperera@gmail.com
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Melbourne, Melbourne, Australia
-      year: 2024
-      description:
-        - Supervised by Prof. Saman Halgamuge, Prof. Sherene Loi, Dr. Peter Savas, and Dr. Jason Li.
-        - title: Deep Neural Networks for Limited Data Scenarios
-          contents:
-            - Enhanced foundational research in few-shot learning by developing parameter-efficient fine-tuning approaches, achieving an average accuracy improvement up to 7.7\% over the state-of-the-art methods across 13 datasets.
-            - Pioneered novel weakly-supervised training models for giga-pixel images, achieving upto 8\% classification improvement on held-out test data.
-            - Developed a transformer based model for analysing kinematic time-series data, achieving up to 3\% improvement over the state-of-the-art methods.
-    
-    - title: B.SC. (Hons) in Computer Science \& Engineering
-      institution: University of Moratuwa, Sri Lanka
-      year: 2014 - 2018
-      description:
-        - GPA: 4.02/4.2 (ranked in the top 3\% of the batch).
-        - Final year project: Developed a novel algorithm using NLP for hierarchical aspect clustering in restuarant reviews, providing the ability to generate topological review summaries.
-
 - title: Most Recent Experience
   type: time_table
   contents:
@@ -37,6 +16,26 @@
     - title: Machine Learning Scientist
       institution: Cancer Research Divison, Peter MacCallum Cancer Centre, Australia
       year: 2023 - 2024
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Melbourne, Melbourne, Australia
+      year: 2024
+      description:
+        - Supervised by Prof. Saman Halgamuge, Prof. Sherene Loi, Dr. Peter Savas, and Dr. Jason Li.
+        - Thesis title "Deep Neural Networks for Limited Data Scenarios"
+            - Enhanced foundational research in few-shot learning by developing parameter-efficient fine-tuning approaches, achieving an average accuracy improvement up to 7.7\% over the state-of-the-art methods across 13 datasets.
+            - Pioneered novel weakly-supervised training models for giga-pixel images, achieving upto 8\% classification improvement on held-out test data.
+            - Developed a transformer based model for analysing kinematic time-series data, achieving up to 3\% improvement over the state-of-the-art methods.
+    
+    - title: B.SC. (Hons) in Computer Science \& Engineering
+      institution: University of Moratuwa, Sri Lanka
+      year: 2014 - 2018
+      description:
+        - GPA of 4.02/4.2 (ranked in the top 3\% of the batch).
+
 
     # - title: Professor of Theoretical Physics
     #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
