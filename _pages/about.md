@@ -20,10 +20,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: false
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a Senior Applied Scientist at [Oracle](https://www.oracle.com/au/) based in Melbourne, working at the intersection of machine learning, data analytics, and real‑world impact. I currently work on building production-level AI pipelines for large-scale data sources. This work has securred the filing of two patents.
