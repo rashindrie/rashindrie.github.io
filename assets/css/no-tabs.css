@@ -1,0 +1,35 @@
+/* Override to remove tabbed UI and show tab panes inline */
+/* Hide common tab navigation elements */
+ul#tabs,
+.nav-tabs,
+.tab-controls,
+.tabs,
+.tab-list,
+.tabnav,
+.jekyll-tabs .tab-list {
+  display: none !important;
+}
+
+/* Ensure tab content panes are visible and stacked */
+.tab-content,
+.tab-pane,
+.jekyll-tabs .tab-panel,
+.jekyll-tabs .tab-content {
+  display: block !important;
+  height: auto !important;
+  visibility: visible !important;
+}
+
+/* Some implementations hide inactive panes with aria-hidden */
+[aria-hidden="true"],
+.tab-pane[aria-hidden="true"] {
+  display: block !important;
+}
+
+/* Avoid layout collapse from float/inline styles */
+.tab-pane > * {
+  display: block !important;
+}
+
+/* Optional: reduce spacing that tab nav might have introduced */
+.tab-content { margin-top: 0 !important; }
