@@ -11,10 +11,17 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "publications by categories in reversed chronological order. Visit my Google Scholar for the complete list.",
+          description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-news",
+          title: "News",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
           },
         },{id: "news-sparkles-a-usd-24000-fund-was-granted-for-explorecsr-work",
           title: ':sparkles: A USD 24000 fund was granted for exploreCSR work!',
