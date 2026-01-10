@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tick: Two US Patents are being filed for my work at Oracle.
+:tada: Two US Patents are being filed for my work at Oracle.
