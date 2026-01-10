@@ -30,7 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "news-raised-hands-thrilled-to-be-receive-the-viewer-s-choice-award-at-the-university-of-melbourne-s-visualise-your-thesis-competition-2021",
+        },{id: "news-raised-hands-thrilled-to-be-receive-the-viewer-s-choice-award-at-the-university-of-melbourne-s-visualise-your-thesis-competition",
           title: ':raised_hands: Thrilled to be receive the Viewer’s Choice Award at the University of...',
           description: "",
           section: "News",},{id: "news-raised-hands-a-usd-24000-fund-was-granted-for-explorecsr-work",
