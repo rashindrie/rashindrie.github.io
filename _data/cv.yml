@@ -19,13 +19,13 @@
             - Enhanced foundational research in few-shot learning by developing parameter-efficient fine-tuning approaches, achieving an average accuracy improvement up to 7.7\% over the state-of-the-art methods across 13 datasets.
             - Pioneered novel weakly-supervised training models for giga-pixel images, achieving upto 8\% classification improvement on held-out test data.
             - Developed a transformer based model for analysing kinematic time-series data, achieving up to 3\% improvement over the state-of-the-art methods.
+    
     - title: B.SC. (Hons) in Computer Science \& Engineering
       institution: University of Moratuwa, Sri Lanka
       year: 2014 - 2018
       description:
         - GPA: 4.02/4.2 (ranked in the top 3\% of the batch).
-        - Final year project: <i>A novel algorithm using NLP for hierarchical aspect clustering in restuarant reviews, providing the ability to generate topological review summaries.”</i>
-          supervised by Dr. Uthayasanker Thayasivam.
+        - Final year project: Developed a novel algorithm using NLP for hierarchical aspect clustering in restuarant reviews, providing the ability to generate topological review summaries.
 
 - title: Most Recent Experience
   type: time_table
