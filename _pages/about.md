@@ -27,11 +27,19 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Applied Scientist at [Oracle](https://www.oracle.com/au/) based in Melbourne, working at the intersection of machine learning, data analytics, and real‑world impact. I currently work on building production-level AI pipelines for large-scale data sources . This work has securred the filing of two patents.
+I am a **Senior Applied Scientist** at [Oracle](https://www.oracle.com/au/) based in Melbourne, working at the intersection of machine learning, data analytics, and real‑world impact. I currently work on building **production-level AI pipelines** for large-scale data sources . This work has securred the filing of two patents.
 
 Over the past decade, my career has spanned academic research and industry, with a consistent focus on building trustworthy, data‑efficient neural network systems that translate into tangible benefits for healthcare and enterprise settings.
 
-I hold a PhD in Engineering from the [University of Melbourne](https://www.unimelb.edu.au/), where my doctoral work tackled core optimisation and generalisation challenges in training neural networks under low‑data constraints. This research led to publications in top‑tier venues such as IEEE/CVF CVPR (A\* CORE‑ranked) and Nature Communications Engineering.
+I hold a **PhD in Engineering** from the [University of Melbourne](https://www.unimelb.edu.au/), where my doctoral work tackled core optimisation and generalisation challenges in training neural networks under low‑data constraints. This research led to publications in top‑tier venues such as IEEE/CVF CVPR (A\* CORE‑ranked) and Nature Communications Engineering.
+
+I am also committed to knowledge sharing—through volunteer and public engagement.
+
+---
+
+<!-- This website presents my [**research projects**](/projects/), [**publications**](/publications/), and **accessible summaries** of recent work. -->
+
+I am always very happy to discuss my work, feel free to reach out at rashindrieperera (at) gmail.com!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
