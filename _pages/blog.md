@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /volunteer/
 title: Volunteer
 nav: true
 nav_order: 5
