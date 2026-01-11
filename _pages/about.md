@@ -39,7 +39,7 @@ I am also committed to knowledge sharing—through volunteer and public engageme
 
 <!-- This website presents my [**research projects**](/projects/), [**publications**](/publications/), and **accessible summaries** of recent work. -->
 
-I am always very happy to discuss my work, feel free to reach out at rashindrieperera (at) gmail.com!
+I am always very happy to discuss my work, feel free to reach out at rashindrieperera@gmail.com!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
