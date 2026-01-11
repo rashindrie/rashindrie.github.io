@@ -76,6 +76,7 @@ jobs:
         with:
           ruby-version: "3.3.5"
           bundler-cache: true
+          bundler-version: "4"
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
         with:
