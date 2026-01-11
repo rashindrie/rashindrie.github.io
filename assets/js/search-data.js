@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "nav-volunteer",
-          title: "Volunteer",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/volunteer/index.html";
-          },
         },{id: "news-raised-hands-thrilled-to-be-receive-the-viewer-s-choice-award-at-the-university-of-melbourne-s-visualise-your-thesis-competition",
           title: ':raised_hands: Thrilled to be receive the Viewer’s Choice Award at the University of...',
           description: "",
