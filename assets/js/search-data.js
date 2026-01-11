@@ -110,13 +110,6 @@ ninja.data = [{
           window.open("mailto:%72%61%73%68%69%6E%64%72%69%65%70%65%72%65%72%61@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/rashindrie", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -129,6 +122,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=F5MAl8kAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/rashindrie", "_blank");
         },
       },{
       id: 'light-theme',
