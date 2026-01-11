@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:raised_hands: A USD 24000 fund was granted for exploreCSR work!
+:raised_hands: Thrilled to be awarded a Google exploreCSR grant of USD 24000 as Principal Investigator of a team!
