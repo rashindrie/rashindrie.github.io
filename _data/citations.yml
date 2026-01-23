@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-01-23'
 papers:
   F5MAl8kAAAAJ:2osOgNQ5qMEC:
     citations: 19
     title: Discriminative sample-guided and parameter-efficient feature space adaptation for cross-domain few-shot learning
     year: '2024'
   F5MAl8kAAAAJ:9yKSN-GCB0IC:
-    citations: 58
+    citations: 57
     title: "Pitfalls in machine learning\u2010based assessment of tumor\u2010infiltrating lymphocytes in breast cancer: A report of the International Immuno\u2010Oncology Biomarker Working Group on \u2026"
     year: '2023'
   F5MAl8kAAAAJ:IjCSPb-OGe4C:
@@ -21,10 +21,26 @@ papers:
     citations: 0
     title: Annotation-efficient deep learning for breast cancer whole-slide image classification using Tumor Infiltrating Lymphocytes and slide-level labels
     year: '2023'
+  F5MAl8kAAAAJ:W7OEmFMy1HYC:
+    citations: 16
+    title: "Image\u2010based multiplex immune profiling of cancer tissues: translational implications. A report of the International Immuno\u2010oncology Biomarker Working Group on Breast Cancer"
+    year: '2024'
+  F5MAl8kAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: "Spatial analyses of immune cell infiltration in cancer: current methods and future directions. A report of the International Immuno\u2010Oncology Biomarker Working Group on Breast \u2026"
+    year: '2023'
+  F5MAl8kAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Deep Neural Networks for Limited Data Scenarios.
+    year: '2024'
   F5MAl8kAAAAJ:d1gkVwhDpl0C:
     citations: 7
     title: Annotation-efficient deep learning for breast cancer whole-slide image classification using tumour infiltrating lymphocytes and slide-level labels
     year: '2024'
+  F5MAl8kAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: Pitfalls in machine learning-based assessment of tumor-infiltrating lymphocytes in breast cancer
+    year: '2023'
   F5MAl8kAAAAJ:qjMakFHDy7sC:
     citations: 48
     title: "Spatial analyses of immune cell infiltration in cancer: current methods and future directions: A report of the International Immuno\u2010Oncology Biomarker Working Group on Breast \u2026"
