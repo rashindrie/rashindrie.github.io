@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-01-30'
 papers:
   F5MAl8kAAAAJ:2osOgNQ5qMEC:
-    citations: 19
+    citations: 20
     title: Discriminative sample-guided and parameter-efficient feature space adaptation for cross-domain few-shot learning
     year: '2024'
   F5MAl8kAAAAJ:9yKSN-GCB0IC:
@@ -10,7 +10,7 @@ papers:
     title: "Pitfalls in machine learning\u2010based assessment of tumor\u2010infiltrating lymphocytes in breast cancer: A report of the International Immuno\u2010Oncology Biomarker Working Group on \u2026"
     year: '2023'
   F5MAl8kAAAAJ:IjCSPb-OGe4C:
-    citations: 51
+    citations: 53
     title: 'Moanna: multi-omics autoencoder-based neural network algorithm for predicting breast cancer subtypes'
     year: '2023'
   F5MAl8kAAAAJ:Tyk-4Ss8FVUC:
