@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-02'
 papers:
   F5MAl8kAAAAJ:2osOgNQ5qMEC:
     citations: 20
@@ -14,7 +14,7 @@ papers:
     title: 'Moanna: multi-omics autoencoder-based neural network algorithm for predicting breast cancer subtypes'
     year: '2023'
   F5MAl8kAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 2
     title: Using artificial intelligence (AI) to model clinical variant reporting for next generation sequencing (NGS) oncology assays
     year: '2025'
   F5MAl8kAAAAJ:UeHWp8X0CEIC:
