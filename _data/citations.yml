@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-25'
 papers:
   F5MAl8kAAAAJ:2osOgNQ5qMEC:
     citations: 24
@@ -10,11 +10,11 @@ papers:
     title: "Pitfalls in machine learning\u2010based assessment of tumor\u2010infiltrating lymphocytes in breast cancer: A report of the International Immuno\u2010Oncology Biomarker Working Group on \u2026"
     year: '2023'
   F5MAl8kAAAAJ:IjCSPb-OGe4C:
-    citations: 61
+    citations: 62
     title: 'Moanna: multi-omics autoencoder-based neural network algorithm for predicting breast cancer subtypes'
     year: '2023'
   F5MAl8kAAAAJ:Tyk-4Ss8FVUC:
-    citations: 2
+    citations: 3
     title: Using artificial intelligence (AI) to model clinical variant reporting for next generation sequencing (NGS) oncology assays
     year: '2025'
   F5MAl8kAAAAJ:UeHWp8X0CEIC:
