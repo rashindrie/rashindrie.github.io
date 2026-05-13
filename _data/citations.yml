@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-13'
 papers:
   F5MAl8kAAAAJ:2osOgNQ5qMEC:
     citations: 27
     title: Discriminative sample-guided and parameter-efficient feature space adaptation for cross-domain few-shot learning
     year: '2024'
   F5MAl8kAAAAJ:9yKSN-GCB0IC:
-    citations: 61
+    citations: 62
     title: "Pitfalls in machine learning\u2010based assessment of tumor\u2010infiltrating lymphocytes in breast cancer: A report of the International Immuno\u2010Oncology Biomarker Working Group on \u2026"
     year: '2023'
   F5MAl8kAAAAJ:IjCSPb-OGe4C:
-    citations: 65
+    citations: 67
     title: 'Moanna: multi-omics autoencoder-based neural network algorithm for predicting breast cancer subtypes'
     year: '2023'
   F5MAl8kAAAAJ:Tyk-4Ss8FVUC:
@@ -42,7 +42,7 @@ papers:
     title: Pitfalls in machine learning-based assessment of tumor-infiltrating lymphocytes in breast cancer
     year: '2023'
   F5MAl8kAAAAJ:qjMakFHDy7sC:
-    citations: 54
+    citations: 56
     title: "Spatial analyses of immune cell infiltration in cancer: current methods and future directions: A report of the International Immuno\u2010Oncology Biomarker Working Group on Breast \u2026"
     year: '2023'
   F5MAl8kAAAAJ:u-x6o8ySG0sC:
@@ -54,6 +54,6 @@ papers:
     title: Adaptation of Multivariate Concept to Multi-Way Agglomerative Clustering for Hierarchical Aspect Aggregation.
     year: '2019'
   F5MAl8kAAAAJ:zYLM7Y9cAGgC:
-    citations: 18
+    citations: 19
     title: 'Undercover deepfakes: Detecting fake segments in videos'
     year: '2023'
