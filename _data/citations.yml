@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-07-15'
 papers:
   F5MAl8kAAAAJ:2osOgNQ5qMEC:
-    citations: 28
+    citations: 30
     title: Discriminative sample-guided and parameter-efficient feature space adaptation for cross-domain few-shot learning
     year: '2024'
   F5MAl8kAAAAJ:9yKSN-GCB0IC:
@@ -10,7 +10,7 @@ papers:
     title: "Pitfalls in machine learning\u2010based assessment of tumor\u2010infiltrating lymphocytes in breast cancer: A report of the International Immuno\u2010Oncology Biomarker Working Group on \u2026"
     year: '2023'
   F5MAl8kAAAAJ:IjCSPb-OGe4C:
-    citations: 68
+    citations: 72
     title: 'Moanna: multi-omics autoencoder-based neural network algorithm for predicting breast cancer subtypes'
     year: '2023'
   F5MAl8kAAAAJ:Tyk-4Ss8FVUC:
@@ -25,6 +25,10 @@ papers:
     citations: 21
     title: "Image\u2010based multiplex immune profiling of cancer tissues: translational implications. A report of the International Immuno\u2010oncology Biomarker Working Group on Breast Cancer"
     year: '2024'
+  F5MAl8kAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: 'A Review and Analysis of Coastal Setback Standards in Sri Lanka: From Policy Chaos to a Rationalized, Localized Approach'
+    year: Unknown Year
   F5MAl8kAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: "Spatial analyses of immune cell infiltration in cancer: current methods and future directions. A report of the International Immuno\u2010Oncology Biomarker Working Group on Breast \u2026"
@@ -34,7 +38,7 @@ papers:
     title: Deep Neural Networks for Limited Data Scenarios.
     year: '2024'
   F5MAl8kAAAAJ:d1gkVwhDpl0C:
-    citations: 10
+    citations: 11
     title: Annotation-efficient deep learning for breast cancer whole-slide image classification using tumour infiltrating lymphocytes and slide-level labels
     year: '2024'
   F5MAl8kAAAAJ:eQOLeE2rZwMC:
@@ -54,6 +58,6 @@ papers:
     title: Adaptation of Multivariate Concept to Multi-Way Agglomerative Clustering for Hierarchical Aspect Aggregation.
     year: '2019'
   F5MAl8kAAAAJ:zYLM7Y9cAGgC:
-    citations: 20
+    citations: 21
     title: 'Undercover deepfakes: Detecting fake segments in videos'
     year: '2023'
